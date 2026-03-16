@@ -12,7 +12,7 @@
   },
   "license": "MIT",
   "author": "Rajeh Taher",
-  "main": "lib/index.js",
+  "main": "cjs-wrapper.js",
   "types": "lib/index.d.ts",
   "files": [
     "lib/**/*",
